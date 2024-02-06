@@ -1,8 +1,7 @@
 # Hosital-Management-System-DBMS
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Shivam Razdan
+USN: 1RV20CS159
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
