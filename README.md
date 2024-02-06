@@ -1,6 +1,4 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
-
 <pre>
 Name: Hrishikesh Athalye
 MIS: 111803154
